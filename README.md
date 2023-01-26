@@ -25,6 +25,9 @@ End the program.
 
 ## PROGRAM:
 ```
+#program to find commaa=nd-line-arguments-to-count-word
+#developed by:Nithyaa sri S S
+#register number:22008434
 
 import sys
 count=0
@@ -36,8 +39,7 @@ print("Word Count in File = ",count)
 ``` 
 
 ### OUTPUT:
-![](output.png)
-![](file.png)
+
 
 
 
