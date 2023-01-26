@@ -39,7 +39,7 @@ print("Word Count in File = ",count)
 ``` 
 
 ### OUTPUT:
-
+![](command%20line%20argument.png)
 
 
 
